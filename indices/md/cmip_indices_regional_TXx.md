@@ -1,12 +1,11 @@
 # cmip6: multi-model-median regional means at warming levels - TXx
 
+- anomalies w.r.t. 1850-1900
+- warming levels: +1.5°C, +2.0°C, +4.0°C
+- index: TXx
+- variable: tasmax
+- units: °C
 
-    - anomalies w.r.t. 1850-1900
-    - warming levels: +1.5°C, +2.0°C, +4.0°C
-    - index: TXx
-    - variable: tasmax
-    - units: °C
-    
 | abbrevs            |   region | names                  |   1.5 |   2.0 |   4.0 |
 |:-------------------|---------:|:-----------------------|------:|------:|------:|
 | global             |       -4 | Global                 |  1.4  |  1.9  |  3.93 |
