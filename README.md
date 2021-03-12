@@ -16,8 +16,8 @@ This data archive is created and maintained in an voluntary effort by its creato
 
 | Index     | Markdown | csv |
 |:----------|:---------|:----|
-|TXx|[TXx.md](indices/md/cmip_indices_regional_TXx.md)|[TXx.csv](indices/md/cmip_indices_regional_TXx.csv)|
-|TNn|[TNn.md](indices/md/cmip_indices_regional_TNn.md)|[TNn.csv](indices/md/cmip_indices_regional_TNn.csv)|
+|TXx|[TXx.md](indices/md/cmip_indices_regional_TXx.md)|[TXx.csv](indices/csv/cmip_indices_regional_TXx.csv)|
+|TNn|[TNn.md](indices/md/cmip_indices_regional_TNn.md)|[TNn.csv](indices/csv/cmip_indices_regional_TNn.csv)|
 
 ## Used models models
 
