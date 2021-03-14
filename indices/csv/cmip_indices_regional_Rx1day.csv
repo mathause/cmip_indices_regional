@@ -4,7 +4,7 @@
 # index: Rx1day
 # variable: pr
 # units: %
-abbrevs,region,names,pr,pr,pr
+abbrevs,region,names,1.5,2.0,4.0
 global,-4,Global,6.96,9.96,24.02
 ocean,-3,Ocean,6.49,9.12,22.81
 land,-2,Land,8.42,11.42,26.58

@@ -6,7 +6,7 @@
 - variable: pr
 - units: %
 
-| abbrevs            |   region | names                  |    pr |    pr |    pr |
+| abbrevs            |   region | names                  |   1.5 |   2.0 |   4.0 |
 |:-------------------|---------:|:-----------------------|------:|------:|------:|
 | global             |       -4 | Global                 |  5.24 |  7.45 | 18.94 |
 | ocean              |       -3 | Ocean                  |  4.77 |  6.74 | 17.92 |

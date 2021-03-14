@@ -4,7 +4,7 @@
 # index: SM_top
 # variable: mrsos
 # units: σ
-abbrevs,region,names,mrsos,mrsos,mrsos
+abbrevs,region,names,1.5,2.0,4.0
 global,-4,Global,,,
 ocean,-3,Ocean,,,
 land,-2,Land,,,

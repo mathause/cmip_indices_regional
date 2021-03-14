@@ -4,7 +4,7 @@
 # index: TNn
 # variable: tasmin
 # units: °C
-abbrevs,region,names,tasmin,tasmin,tasmin
+abbrevs,region,names,1.5,2.0,4.0
 global,-4,Global,1.99,2.63,5.19
 ocean,-3,Ocean,1.74,2.28,4.53
 land,-2,Land,2.64,3.48,6.8

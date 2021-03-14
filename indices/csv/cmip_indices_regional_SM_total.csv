@@ -4,7 +4,7 @@
 # index: SM_total
 # variable: mrso
 # units: σ
-abbrevs,region,names,mrso,mrso,mrso
+abbrevs,region,names,1.5,2.0,4.0
 global,-4,Global,,,
 ocean,-3,Ocean,,,
 land,-2,Land,,,
