@@ -8,9 +8,9 @@
 
 | abbrevs            |   region | names                  |   mrso |   mrso |   mrso |
 |:-------------------|---------:|:-----------------------|-------:|-------:|-------:|
-| global             |       -4 | Global                 |  --    |  --    |  --    |
-| ocean              |       -3 | Ocean                  |  --    |  --    |  --    |
-| land               |       -2 | Land                   |  --    |  --    |  --    |
+| global             |       -4 | Global                 |   -    |   -    |   -    |
+| ocean              |       -3 | Ocean                  |   -    |   -    |   -    |
+| land               |       -2 | Land                   |   -    |   -    |   -    |
 | land_wo_antarctica |       -1 | Land w/o Antarctica    |  -0.93 |  -1.63 |  -3.53 |
 | GIC                |        0 | Greenland/Iceland      |  -0.54 |  -0.5  |  -2.04 |
 | NWN                |        1 | N.W.North-America      |  -0.02 |   0.34 |  -2.72 |
@@ -56,5 +56,5 @@
 | EAU                |       41 | E.Australia            |  -0.41 |  -0.46 |  -0.68 |
 | SAU                |       42 | S.Australia            |  -0.61 |  -0.96 |  -1.14 |
 | NZ                 |       43 | New-Zealand            |  -0.23 |  -0.1  |  -0.17 |
-| EAN                |       44 | E.Antarctica           |  --    |  --    |  --    |
-| WAN                |       45 | W.Antarctica           |  --    |  --    |  --    |
+| EAN                |       44 | E.Antarctica           |   -    |   -    |   -    |
+| WAN                |       45 | W.Antarctica           |   -    |   -    |   -    |
