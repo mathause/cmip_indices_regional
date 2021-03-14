@@ -30,7 +30,12 @@ The used models are listed in [data tables](indices/data_tables/)
 
 ## Method
 
-TODO
+The regional statistics are calculated as follows:
+- (1) calculate the index on the original model grid
+- (2) calculate the area-weighted mean over the AR6 regions
+- (3) calculate anomalies w.r.t. 1850-1900
+- (4) calculate the mean over the years where a warming level is reached (see [cmip_warming_levels](https://github.com/mathause/cmip_warming_levels))
+- (5) calculate the multi model median
 
 ## Code
 The code will be published in https://github.com/IPCC-WG1 as soon as I have the right to create a repository.
