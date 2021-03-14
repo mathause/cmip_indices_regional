@@ -6,7 +6,7 @@
 - variable: pr
 - units: day
 
-| abbrevs            |   region | names                  |     pr |     pr |     pr |
+| abbrevs            |   region | names                  |    1.5 |    2.0 |    4.0 |
 |:-------------------|---------:|:-----------------------|-------:|-------:|-------:|
 | global             |       -4 | Global                 |   0.91 |   0.96 |   1.48 |
 | ocean              |       -3 | Ocean                  |   1.65 |   1.8  |   3.24 |
