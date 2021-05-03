@@ -1,60 +1,60 @@
 # cmip6: multi-model-median regional means at warming levels - TNn
 
 - anomalies w.r.t. 1850-1900
-- warming levels: +1.5°C, +2.0°C, +4.0°C
+- warming levels: +1.5°C, +2.0°C, +3.0°C, +4.0°C
 - index: TNn
 - variable: tasmin
 - units: °C
 
-| abbrevs            |   region | names                  |   1.5 |   2.0 |   4.0 |
-|:-------------------|---------:|:-----------------------|------:|------:|------:|
-| global             |       -4 | Global                 |  1.99 |  2.63 |  5.19 |
-| ocean              |       -3 | Ocean                  |  1.74 |  2.28 |  4.53 |
-| land               |       -2 | Land                   |  2.64 |  3.48 |  6.8  |
-| land_wo_antarctica |       -1 | Land w/o Antarctica    |  2.73 |  3.59 |  7.05 |
-| GIC                |        0 | Greenland/Iceland      |  3.88 |  4.99 |  9.9  |
-| NWN                |        1 | N.W.North-America      |  4.46 |  6.01 | 12.38 |
-| NEN                |        2 | N.E.North-America      |  4.85 |  6.37 | 13.22 |
-| WNA                |        3 | W.North-America        |  2.8  |  3.92 |  7.8  |
-| CNA                |        4 | C.North-America        |  2.54 |  3.76 |  7.82 |
-| ENA                |        5 | E.North-America        |  3.67 |  4.99 |  9.72 |
-| NCA                |        6 | N.Central-America      |  1.79 |  2.36 |  5.03 |
-| SCA                |        7 | S.Central-America      |  1.59 |  2.08 |  3.87 |
-| CAR                |        8 | Caribbean              |  1.51 |  2.02 |  3.74 |
-| NWS                |        9 | N.W.South-America      |  1.87 |  2.43 |  4.89 |
-| NSA                |       10 | N.South-America        |  1.81 |  2.36 |  4.62 |
-| NES                |       11 | N.E.South-America      |  1.79 |  2.35 |  4.4  |
-| SAM                |       12 | South-American-Monsoon |  1.78 |  2.41 |  4.79 |
-| SWS                |       13 | S.W.South-America      |  2.04 |  2.66 |  5.9  |
-| SES                |       14 | S.E.South-America      |  1.42 |  1.8  |  3.75 |
-| SSA                |       15 | S.South-America        |  2.14 |  2.79 |  6.4  |
-| NEU                |       16 | N.Europe               |  5.08 |  6.46 | 10.59 |
-| WCE                |       17 | West&Central-Europe    |  4.8  |  6.06 | 11.04 |
-| EEU                |       18 | E.Europe               |  4.9  |  6.16 | 11.33 |
-| MED                |       19 | Mediterranean          |  2.2  |  2.79 |  5.28 |
-| SAH                |       20 | Sahara                 |  2.15 |  2.74 |  5.35 |
-| WAF                |       21 | Western-Africa         |  2.04 |  2.65 |  4.63 |
-| CAF                |       22 | Central-Africa         |  1.89 |  2.52 |  4.94 |
-| NEAF               |       23 | N.Eastern-Africa       |  1.95 |  2.51 |  4.9  |
-| SEAF               |       24 | S.Eastern-Africa       |  1.83 |  2.36 |  4.54 |
-| WSAF               |       25 | W.Southern-Africa      |  1.77 |  2.4  |  4.75 |
-| ESAF               |       26 | E.Southern-Africa      |  1.78 |  2.28 |  4.42 |
-| MDG                |       27 | Madagascar             |  1.63 |  2.08 |  3.93 |
-| RAR                |       28 | Russian-Arctic         |  4.81 |  6.44 | 12.78 |
-| WSB                |       29 | W.Siberia              |  4.05 |  5.52 | 10.26 |
-| ESB                |       30 | E.Siberia              |  3.42 |  4.55 |  8.62 |
-| RFE                |       31 | Russian-Far-East       |  4.1  |  5.56 | 11.17 |
-| WCA                |       32 | W.C.Asia               |  2.75 |  3.56 |  7.32 |
-| ECA                |       33 | E.C.Asia               |  2.26 |  2.97 |  5.77 |
-| TIB                |       34 | Tibetan-Plateau        |  2.42 |  2.97 |  5.74 |
-| EAS                |       35 | E.Asia                 |  2.11 |  2.95 |  5.83 |
-| ARP                |       36 | Arabian-Peninsula      |  2.3  |  2.84 |  5.96 |
-| SAS                |       37 | S.Asia                 |  1.79 |  2.48 |  5.23 |
-| SEA                |       38 | S.E.Asia               |  1.46 |  1.96 |  4.1  |
-| NAU                |       39 | N.Australia            |  1.97 |  2.57 |  5.08 |
-| CAU                |       40 | C.Australia            |  1.62 |  2.06 |  4.22 |
-| EAU                |       41 | E.Australia            |  1.37 |  1.89 |  3.76 |
-| SAU                |       42 | S.Australia            |  1.1  |  1.52 |  2.95 |
-| NZ                 |       43 | New-Zealand            |  1.33 |  1.74 |  3.41 |
-| EAN                |       44 | E.Antarctica           |  1.64 |  2.17 |  4.38 |
-| WAN                |       45 | W.Antarctica           |  2.26 |  2.95 |  5.58 |
+| abbrevs            |   region | names                  |   1.5 |   2.0 |   3.0 |   4.0 |
+|:-------------------|---------:|:-----------------------|------:|------:|------:|------:|
+| global             |       -4 | Global                 |  1.99 |  2.63 |  3.89 |  5.19 |
+| ocean              |       -3 | Ocean                  |  1.74 |  2.28 |  3.39 |  4.53 |
+| land               |       -2 | Land                   |  2.64 |  3.48 |  5.18 |  6.8  |
+| land_wo_antarctica |       -1 | Land w/o Antarctica    |  2.73 |  3.59 |  5.34 |  7.05 |
+| GIC                |        0 | Greenland/Iceland      |  3.88 |  4.99 |  7.19 |  9.9  |
+| NWN                |        1 | N.W.North-America      |  4.46 |  6.01 |  8.9  | 12.38 |
+| NEN                |        2 | N.E.North-America      |  4.85 |  6.37 |  9.81 | 13.22 |
+| WNA                |        3 | W.North-America        |  2.8  |  3.92 |  6.21 |  7.8  |
+| CNA                |        4 | C.North-America        |  2.54 |  3.76 |  6.01 |  7.82 |
+| ENA                |        5 | E.North-America        |  3.67 |  4.99 |  7.72 |  9.72 |
+| NCA                |        6 | N.Central-America      |  1.79 |  2.36 |  3.56 |  5.03 |
+| SCA                |        7 | S.Central-America      |  1.59 |  2.08 |  3.13 |  3.87 |
+| CAR                |        8 | Caribbean              |  1.51 |  2.02 |  2.95 |  3.74 |
+| NWS                |        9 | N.W.South-America      |  1.87 |  2.43 |  3.69 |  4.89 |
+| NSA                |       10 | N.South-America        |  1.81 |  2.36 |  3.58 |  4.62 |
+| NES                |       11 | N.E.South-America      |  1.79 |  2.35 |  3.42 |  4.4  |
+| SAM                |       12 | South-American-Monsoon |  1.78 |  2.41 |  3.86 |  4.79 |
+| SWS                |       13 | S.W.South-America      |  2.04 |  2.66 |  4.38 |  5.9  |
+| SES                |       14 | S.E.South-America      |  1.42 |  1.8  |  2.8  |  3.75 |
+| SSA                |       15 | S.South-America        |  2.14 |  2.79 |  4.39 |  6.4  |
+| NEU                |       16 | N.Europe               |  5.08 |  6.46 |  8.83 | 10.59 |
+| WCE                |       17 | West&Central-Europe    |  4.8  |  6.06 |  8.34 | 11.04 |
+| EEU                |       18 | E.Europe               |  4.9  |  6.16 |  8.85 | 11.33 |
+| MED                |       19 | Mediterranean          |  2.2  |  2.79 |  4.08 |  5.28 |
+| SAH                |       20 | Sahara                 |  2.15 |  2.74 |  4.09 |  5.35 |
+| WAF                |       21 | Western-Africa         |  2.04 |  2.65 |  3.71 |  4.63 |
+| CAF                |       22 | Central-Africa         |  1.89 |  2.52 |  3.74 |  4.94 |
+| NEAF               |       23 | N.Eastern-Africa       |  1.95 |  2.51 |  3.74 |  4.9  |
+| SEAF               |       24 | S.Eastern-Africa       |  1.83 |  2.36 |  3.6  |  4.54 |
+| WSAF               |       25 | W.Southern-Africa      |  1.77 |  2.4  |  3.56 |  4.75 |
+| ESAF               |       26 | E.Southern-Africa      |  1.78 |  2.28 |  3.44 |  4.42 |
+| MDG                |       27 | Madagascar             |  1.63 |  2.08 |  3.13 |  3.93 |
+| RAR                |       28 | Russian-Arctic         |  4.81 |  6.44 |  9.42 | 12.78 |
+| WSB                |       29 | W.Siberia              |  4.05 |  5.52 |  8.4  | 10.26 |
+| ESB                |       30 | E.Siberia              |  3.42 |  4.55 |  6.7  |  8.62 |
+| RFE                |       31 | Russian-Far-East       |  4.1  |  5.56 |  8.41 | 11.17 |
+| WCA                |       32 | W.C.Asia               |  2.75 |  3.56 |  5.37 |  7.32 |
+| ECA                |       33 | E.C.Asia               |  2.26 |  2.97 |  4.45 |  5.77 |
+| TIB                |       34 | Tibetan-Plateau        |  2.42 |  2.97 |  4.52 |  5.74 |
+| EAS                |       35 | E.Asia                 |  2.11 |  2.95 |  4.34 |  5.83 |
+| ARP                |       36 | Arabian-Peninsula      |  2.3  |  2.84 |  4.25 |  5.96 |
+| SAS                |       37 | S.Asia                 |  1.79 |  2.48 |  3.88 |  5.23 |
+| SEA                |       38 | S.E.Asia               |  1.46 |  1.96 |  3.04 |  4.1  |
+| NAU                |       39 | N.Australia            |  1.97 |  2.57 |  3.79 |  5.08 |
+| CAU                |       40 | C.Australia            |  1.62 |  2.06 |  3.13 |  4.22 |
+| EAU                |       41 | E.Australia            |  1.37 |  1.89 |  2.92 |  3.76 |
+| SAU                |       42 | S.Australia            |  1.1  |  1.52 |  2.38 |  2.95 |
+| NZ                 |       43 | New-Zealand            |  1.33 |  1.74 |  2.64 |  3.41 |
+| EAN                |       44 | E.Antarctica           |  1.64 |  2.17 |  3.36 |  4.38 |
+| WAN                |       45 | W.Antarctica           |  2.26 |  2.95 |  4.2  |  5.58 |
