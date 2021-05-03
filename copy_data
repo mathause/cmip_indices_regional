@@ -3,3 +3,4 @@
 cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/csv/* indices/csv/
 cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/md/* indices/md/
 cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/data_tables/*[!raw] indices/data_tables/
+cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices_all_models_one_ens/csv/ indices_all_models_one_ens/csv/
