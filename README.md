@@ -18,13 +18,13 @@ This data archive is created and maintained in an voluntary effort by its creato
 
 | Index     | Markdown | csv |
 |:----------|:---------|:----|
-|TXx|[TXx.md](indices/md/cmip_indices_regional_TXx.md)|[TXx.csv](indices/csv/cmip_indices_regional_TXx.csv)|
-|TNn|[TNn.md](indices/md/cmip_indices_regional_TNn.md)|[TNn.csv](indices/csv/cmip_indices_regional_TNn.csv)|
-|Rx1day|[Rx1day.md](indices/md/cmip_indices_regional_Rx1day.md)|[Rx1day.csv](indices/csv/cmip_indices_regional_Rx1day.csv)|
-|Rx5day|[Rx5day.md](indices/md/cmip_indices_regional_Rx5day.md)|[Rx5day.csv](indices/csv/cmip_indices_regional_Rx5day.csv)|
-|SM (total column)|[SM_total.md](indices/md/cmip_indices_regional_SM_total.md)|[SM_total.csv](indices/csv/cmip_indices_regional_SM_total.csv)|
-|SM (top)|[SM_top.md](indices/md/cmip_indices_regional_SM_top.md)|[SM_top.csv](indices/csv/cmip_indices_regional_SM_top.csv)|
-|CDD|[CDD.md](indices/md/cmip_indices_regional_CDD.md)|[CDD.csv](indices/csv/cmip_indices_regional_CDD.csv)|
+|TXx|[TXx.md](indices_multi_model_median/md/cmip_indices_regional_TXx.md)|[TXx.csv](indices_multi_model_median/csv/cmip_indices_regional_TXx.csv)|
+|TNn|[TNn.md](indices_multi_model_median/md/cmip_indices_regional_TNn.md)|[TNn.csv](indices_multi_model_median/csv/cmip_indices_regional_TNn.csv)|
+|Rx1day|[Rx1day.md](indices_multi_model_median/md/cmip_indices_regional_Rx1day.md)|[Rx1day.csv](indices_multi_model_median/csv/cmip_indices_regional_Rx1day.csv)|
+|Rx5day|[Rx5day.md](indices_multi_model_median/md/cmip_indices_regional_Rx5day.md)|[Rx5day.csv](indices_multi_model_median/csv/cmip_indices_regional_Rx5day.csv)|
+|SM (total column)|[SM_total.md](indices_multi_model_median/md/cmip_indices_regional_SM_total.md)|[SM_total.csv](indices_multi_model_median/csv/cmip_indices_regional_SM_total.csv)|
+|SM (top)|[SM_top.md](indices_multi_model_median/md/cmip_indices_regional_SM_top.md)|[SM_top.csv](indices_multi_model_median/csv/cmip_indices_regional_SM_top.csv)|
+|CDD|[CDD.md](indices_multi_model_median/md/cmip_indices_regional_CDD.md)|[CDD.csv](indices_multi_model_median/csv/cmip_indices_regional_CDD.csv)|
 
 ## Used models models
 
