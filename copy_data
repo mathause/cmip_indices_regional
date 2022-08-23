@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/csv/* indices_multi_model_median/csv/
-cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/md/* indices_multi_model_median/md/
-cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices/data_tables/*[!raw] indices_multi_model_median/data_tables/
-cp -aru ../IPCC_AR6_CH11/cmip_indices_regional/indices_all_models_one_ens/csv/* indices_all_models_one_ens/csv/
