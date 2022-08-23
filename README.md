@@ -41,7 +41,8 @@ The regional statistics are calculated as follows:
 5. calculate the multi model median
 
 ## Code
-The code will be published in https://github.com/IPCC-WG1 as soon as I have the right to create a repository.
+
+The code is available under https://github.com/IPCC-WG1/Chapter-11/tree/main/code/Table_11.SM_cmip_indices_regional.ipynb.
 
 ## Changelog
 
